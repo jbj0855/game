@@ -1,1 +1,1 @@
-requirements
+import streamlit as st
