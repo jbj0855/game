@@ -1,4 +1,6 @@
-mport streamlit as st
+"""
+
+import streamlit as st
 
 # 점수 저장을 위한 세션 상태 초기화
 if 'score' not in st.session_state:
