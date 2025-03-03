@@ -1,5 +1,3 @@
-"""
-
 import streamlit as st
 
 # 점수 저장을 위한 세션 상태 초기화
